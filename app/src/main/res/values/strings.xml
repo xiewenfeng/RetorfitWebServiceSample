@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitSoapSample</string>
+    <string name="city_name_hint">请输入城市名称</string>
+    <string name="make_request">发送请求</string>
+</resources>
